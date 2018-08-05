@@ -1,0 +1,8 @@
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\obj\Debug\telefon rehberi.csprojResolveAssemblyReference.cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\obj\Debug\telefon_rehberi.MainForm.resources
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\obj\Debug\telefon rehberi.csproj.GenerateResource.Cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\bin\Debug\telefon rehberi.exe.config
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\bin\Debug\telefon rehberi.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\bin\Debug\telefon rehberi.pdb
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\obj\Debug\telefon rehberi.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\telefon rehberi\telefon rehberi\obj\Debug\telefon rehberi.pdb
